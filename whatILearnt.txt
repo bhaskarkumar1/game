@@ -1,0 +1,11 @@
+The things I learnt from this project are----->
+
+. first figure out how things works
+. then make a design 
+.make the resoponsive for small screen after making each component
+
+
+Now Coming to the tech part ----->
+
+.we use absolute to set the element out of flow from display=flex
+
